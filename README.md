@@ -8,7 +8,7 @@ This repository contains assignments of the course AMATH 482 at the University o
   * Using the **Gabor transform** to obtain the spectrum of a specific instrument in a music clip.
 * Principle component analysis
   * Using the **principle component analysis (PCA)**, a further implementation of the **singular value decomposition (SVD)**, to analyze the energy percent and the displacement of a moving can captured by three cameras in four different situations.
-* Classifying Digits
+* Classifying digits
   * Building a **linear discriminant analysis (LDA)** classifier using SVD, and compare its performance on classifying digits along with the **support vector machine (SVM)** and the **decision tree** classifier.
 * Background subtraction in video streams
   * Using the **dynamic mode decomposition (DMD)** to separate the foreground and the background of a given video.
