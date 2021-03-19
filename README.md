@@ -2,7 +2,7 @@
 This repository contains assignments of the course AMATH 482 at the University of Washington, winter 2021. In each folder, there are corresponding MATLAB codes and a written report.
 
 ## Assignments and Key Algorithms
-* Tracking a submarine using acoustic signiture
+* Tracking a submarine using acoustic signature
   * Tracking the position of a submarine by applying the **fast Fourier transform** and the **Gaussian filter** on the acoustic data.
 * Isolating an instrument in an audio file
   * Using the **Gabor transform** to obtain the spectrum of a specific instrument in a music clip.
